@@ -1,0 +1,75 @@
+body {
+    background-image: url("/Users/ryanwalters/Desktop/week-4-game/assets/images/background.png");
+}
+
+h1 {
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    background-color
+    color: white;
+    width: 40%;
+    height: 10%;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+#gameRules {
+    /* background-color:tan; */
+    text-align: center;
+    border-width: 1px;
+    /* color: green; */
+    width: 60%;
+    height:60%;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+    }
+    
+#computerScore {
+    background-color: green;
+    width: 30%;
+    height: 75px;
+    margin-top: 5px;
+    float: left;
+    padding-top: 5px;
+    font-size: 3rem;
+    font-weight: bold;
+}
+    
+
+#Scoreboard {
+    float: left;
+    background-color: lightblue;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px;
+    font-size: 3rem;
+    font-weight: bold;
+    
+}
+
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+
+  }
+
+  #buttons {
+    border-top: 5px;
+
+  }
+#playerScore {
+    font-size:3rem;
+    font-weight: bold;
+    
+}
+  #winsId,
+  #lossesID, {
+    font-size:3rem;
+    font-weight: bold;
+  }

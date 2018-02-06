@@ -1,2 +1,14 @@
-# crystalCollector
-Crystal Collector Javascript Game
+# Crystal Collectors
+
+## Number matching game
+
+###
+Player uses buttons to try and match their score to a randomly generated number by clicking on a series of buttons.
+Each button adds up a hidden number that has been assigned to the crystal
+Each round all of teh numbers in the game reset
+If you match the computer number you win, and if you go over you lose
+
+The Game: ![alt "game image] (/assets/images/game image.png)
+
+Technologies used: Javascript, jQuery, CSS, Bootstrap, HTML
+
